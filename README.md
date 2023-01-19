@@ -3,7 +3,7 @@ ml-model using streamlit
 
 Install the following dependencies:
 
-_ Install Python Dependencies _
+## Install Python Dependencies ##
 
 - pip install pycaret
 
@@ -14,4 +14,4 @@ _ Install Python Dependencies _
 
 Run the application using below command:
 
-streamlit run app.py
+__streamlit run app.py__
