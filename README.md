@@ -11,6 +11,8 @@ Install the following dependencies:
 
 - pip install streamlit
 
+- pip install streamlit-pandas-profiling
+
 
 Run the application using below command:
 
